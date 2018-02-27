@@ -1,32 +1,10 @@
 # cib
 
-FIXME: description
+Simple Clojure IRC bot
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar cib-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Clone this repo, tweak the settings, then use leiningen to run: `lein run`
 
 ## License
 
